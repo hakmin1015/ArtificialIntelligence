@@ -1,1 +1,1 @@
-# ArtificialIntelligence
+<딥러닝 실습> Colab을 이용한 인공지능 실습입니다.
